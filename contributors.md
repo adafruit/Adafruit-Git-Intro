@@ -5,4 +5,6 @@ Brennen Bearnes
 
 ----
 
-See README.md for more info.
+See [README.md][1] for more info.
+
+[1]: README.md
