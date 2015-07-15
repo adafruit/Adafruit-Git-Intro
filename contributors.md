@@ -1,7 +1,8 @@
 Contributors to Adafruit-Git-Intro
 ==================================
 
-Brennen Bearnes
+* Brennen Bearnes
+* [Biko](http://biko.io)
 
 ----
 
