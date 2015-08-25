@@ -1,6 +1,6 @@
 Contributors to Adafruit-Git-Intro
 ==================================
-* test git pull
+* retrorter
 * Brennen Bearnes
 * [Biko](http://biko.io)
 
