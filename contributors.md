@@ -3,6 +3,7 @@ Contributors to Adafruit-Git-Intro
 * retrorter
 * Brennen Bearnes
 * [Biko](http://biko.io)
+Christopher Roberts (chris@opsadmin.net)
 
 ----
 
