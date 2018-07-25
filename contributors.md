@@ -1,6 +1,6 @@
 Contributors to Adafruit-Git-Intro
 ==================================
-* Navyjetfixer
+* Navyjetfixer _ Mark
 * MeToo
 * jwmeyer
 * retrorter
