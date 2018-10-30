@@ -7,6 +7,7 @@ Contributors to Adafruit-Git-Intro
 * [Biko](http://biko.io)
 Christopher Roberts (chris@opsadmin.net)
 * mrmcwethy (Mike McWethy)
+* Prashant Kumar
 ----
 
 See [README.md][1] for more info.
