@@ -8,6 +8,7 @@ Contributors to Adafruit-Git-Intro
 Christopher Roberts (chris@opsadmin.net)
 * mrmcwethy (Mike McWethy)
 * Prashant Kumar
+* Suraj Branwal
 ----
 
 See [README.md][1] for more info.
