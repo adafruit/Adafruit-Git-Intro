@@ -12,6 +12,7 @@ Christopher Roberts (chris@opsadmin.net)
 * Prashant Kumar
 * Suraj Branwal
 * Szymon Klause
+* Mark S.
 ----
 
 See [README.md][1] for more info.
