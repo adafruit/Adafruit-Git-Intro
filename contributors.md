@@ -1,5 +1,6 @@
 Contributors to Adafruit-Git-Intro
 ==================================
+* Jeremy Cook :-)
 * AAES _ KBA
 * Navyjetfixer _ Mark
 * MeToo
